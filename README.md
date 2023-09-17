@@ -1,3 +1,4 @@
+![logo](https://github.com/codeWithmanishM/codeWithManishM/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Manish Mahajan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
